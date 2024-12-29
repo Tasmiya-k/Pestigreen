@@ -1,0 +1,69 @@
+{
+  "crops": [
+    {
+      "cropname": "Banana",
+      "stages": [
+        {
+          "stage_name": "Seed Germination",
+          "stage_description": "Bananas are rarely grown from seeds commercially due to their sterility. Wild banana varieties produce seeds, which can be germinated under warm conditions. Germination typically takes 30 to 180 days.",
+          "stage_image": "https://res.cloudinary.com/dqhxl9jvc/image/upload/v1712724206/ban_s1_mbczvu.png"
+        },
+        {
+          "stage_name": "Plantlets",
+          "stage_description": "Commercial banana plants are usually propagated vegetatively from rhizome pieces or small plantlets that sprout near the base of the plant. This method ensures genetic consistency and rapid growth.",
+          "stage_image": "https://res.cloudinary.com/dqhxl9jvc/image/upload/v1712724206/ban_s2_l19d4u.png"
+        },
+        {
+          "stage_name": "Vegetative Growth",
+          "stage_description": "Banana plants undergo significant vegetative growth, with the stalk becoming taller and producing new leaves. The top of the stalk is crucial for growth, while additional stalks may sprout from the root system.",
+          "stage_image": "vegetative_growth_banana.jpg"
+        },
+        {
+          "stage_name": "Flowering",
+          "stage_description": "Banana flowers emerge from the center of the stalk, starting with an inflorescence. Flowering can take up to 90 days, and the male flowers are more prominent than the female flowers.",
+          "stage_image": "flowering_banana.jpg"
+        },
+        {
+          "stage_name": "Pollination",
+          "stage_description": "Hybrid bananas don't require traditional pollination for fruit production, as they are parthenocarpic. Wild banana varieties rely on pollination, often facilitated by fruit bats.",
+          "stage_image": "pollination_banana.jpg"
+        },
+        {
+          "stage_name": "Fruit Development",
+          "stage_description": "Banana fruits develop from the ovary of female flowers in clusters known as hands, with individual bananas referred to as fingers. Ripening can take 80 to 100 days or longer, depending on environmental factors.",
+          "stage_image": "fruit_development_banana.jpg"
+        },
+        {
+          "stage_name": "Dieback and Regrowth",
+          "stage_description": "After fruiting, the banana stalk naturally dies back. However, if the plant is healthy, a new stalk will sprout from the root system, continuing the plant's life cycle.",
+          "stage_image": "dieback_regrowth_banana.jpg"
+        }
+      ]
+    },
+    {
+      "cropname": "Apple",
+      "stages": [
+        {
+          "stage_name": "Blossom",
+          "stage_description": "The apple tree produces flowers in spring, attracting pollinators such as bees. Each flower has the potential to develop into an apple fruit.",
+          "stage_image": "https://res.cloudinary.com/dqhxl9jvc/image/upload/v1712724914/app_s1_rpdabz.jpg"
+        },
+        {
+          "stage_name": "Fruit Set",
+          "stage_description": "After successful pollination, the fertilized flowers develop into small apple fruits. Fruit set occurs when the young fruits begin to grow and swell.",
+          "stage_image": "https://res.cloudinary.com/dqhxl9jvc/image/upload/v1712724914/app_s2_lp0db7.webp"
+        },
+        {
+          "stage_name": "Fruit Growth",
+          "stage_description": "As the apples mature, they grow in size and start accumulating sugars. The color of the apples may change depending on the variety.",
+          "stage_image": "https://res.cloudinary.com/dqhxl9jvc/image/upload/v1712724932/apple_s3_iy1qee.jpg"
+        },
+        {
+          "stage_name": "Harvesting",
+          "stage_description": "Apples are harvested when they reach maturity. Harvest time varies depending on the apple variety and intended use, but it usually occurs in late summer or early fall.",
+          "stage_image": "harvesting_apple.jpg"
+        }
+      ]
+    }
+  ]
+}
